@@ -1,0 +1,1 @@
+Manual Commits give us the freedom to choose appropriate point to commit rather than auto commits. manual commits are good for programmers but it might not be for some other context where auto commit be good.
