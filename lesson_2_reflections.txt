@@ -1,0 +1,3 @@
+when we initialize a repo there are no commits and no history. only we have a untracked files. we need to do this to mae our own repo in git.
+
+staging area is a intermediate place between commit in repo and our working directory. it clubs the files or changes that we want to include in one commit. it helps us to club the logical commits that we want to mae in a commit.

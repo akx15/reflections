@@ -1,0 +1,1 @@
+Having an older version for programmers actually draws a growth graph for him/her to compare his coding style and conventions. It tells him or her of the areas still need to work upon aor any area that was better in history but is messed up right now. In terms of technical growth it can help to resolve any mistakes done and use it to make the code beter.

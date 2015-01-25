@@ -1,0 +1,1 @@
+The fc command used in windows helped to find out the typos. Also it can help to find out the bugs due these which gets difficult to do manually in case there are 100 lines of code.
